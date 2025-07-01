@@ -1,11 +1,7 @@
 body{
-    background-color: cornflowerblue
+    background-color: darkblue;
 }
-h1{
-    font-style: italic;
-    color: aliceblue;
-}
-.kyancriança{
-    width: 85.%;
+.kyan{
+    width: 50.%;
     text-align: center;
 }
