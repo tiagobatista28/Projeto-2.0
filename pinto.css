@@ -1,3 +1,14 @@
 body{
     text-align: center;
+    background-color: darkblue;
+}
+img{
+    text-align: center;
+    width:50.%;
+}
+p{
+    color:aliceblue;
+}
+a{
+    color:aliceblue;
 }
