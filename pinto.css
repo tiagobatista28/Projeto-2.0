@@ -1,14 +1,12 @@
 body{
-    text-align: center;
     background-color: darkblue;
 }
-img{
+.cu{
     text-align: center;
-    width:50.%;
-}
-p{
-    color:aliceblue;
 }
 a{
-    color:aliceblue;
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
 }
