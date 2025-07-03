@@ -1,13 +1,10 @@
 body {
-    background-color: blue; /* Fundo azul */
+    background-color: dimgrey;
     color: white;           /* Texto branco */
     font-family: Arial, sans-serif; /* Fonte padrão */
     margin: 0;
     padding: 0;
-}
-
-.cu {
-    text-align: center;  /* Centraliza o texto nos elementos com a classe "cu" */
+    text-align: center;
 }
 
 a {
