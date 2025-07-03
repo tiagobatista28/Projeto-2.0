@@ -1,13 +1,24 @@
-body{
+body {
     text-align: center;
-    background-color:darkblue;
+    background-color: darkblue;
+    color: white;
+    margin: 0;
+    padding: 0;
 }
-.kyanpalco{
+
+.kyanpalco {
     text-align: center;
 }
-p{
-    color:aliceblue
+
+p {
+    color: white;
 }
-a{
-    color:aliceblue
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
