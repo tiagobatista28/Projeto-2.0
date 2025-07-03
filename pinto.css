@@ -1,12 +1,24 @@
-body{
-    background-color: darkblue;
+body {
+    background-color: blue; /* Fundo azul */
+    color: white;           /* Texto branco */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    margin: 0;
+    padding: 0;
 }
-.cu{
-    text-align: center;
+
+.cu {
+    text-align: center;  /* Centraliza o texto nos elementos com a classe "cu" */
 }
-a{
-    color: aliceblue;
+
+a {
+    color: white;            /* Links em branco */
+    text-decoration: none;   /* Remove o sublinhado dos links */
 }
-p{
-    color: aliceblue;
+
+a:hover {
+    text-decoration: underline;  /* Adiciona sublinhado nos links quando passar o mouse */
+}
+
+p {
+    color: white;            /* Parágrafos em branco */
 }
