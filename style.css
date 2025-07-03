@@ -1,6 +1,6 @@
 body {
-    background-color: blue; /* Fundo azul */
-    color: white; /* Texto branco */
+    background-color: blue; 
+    color: white; 
 }
 
 .kyan {
@@ -8,13 +8,12 @@ body {
 }
 
 a {
-    color: white; /* Cor do texto dos links em branco */
+    color: white;
 }
 
 a:hover {
-    color: lightgray; /* Cor do texto dos links quando passar o mouse */
-}
+    color: lightgray;
 
 p {
-    color: white; /* Texto dos parágrafos em branco */
+    color: white;
 }
