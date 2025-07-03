@@ -1,12 +1,20 @@
-body{
-    background-color: darkblue;
+body {
+    background-color: blue; /* Fundo azul */
+    color: white; /* Texto branco */
 }
-.kyan{
+
+.kyan {
     text-align: center;
 }
-a{
-    color:aliceblue
+
+a {
+    color: white; /* Cor do texto dos links em branco */
 }
-p{
-    color:aliceblue
+
+a:hover {
+    color: lightgray; /* Cor do texto dos links quando passar o mouse */
+}
+
+p {
+    color: white; /* Texto dos parágrafos em branco */
 }
